@@ -1,25 +1,15 @@
-### This project is licensed under the CC BY-NC 4.0 LICENSE.
-This repository contains secondary creative logos designed for third-party systems based on AOSP; they are NOT official logos.
+### 该项目采用CC BY-NC 4.0 LICENSE
+本仓库包含部分为基于AOSP开发的第三方系统二次创作的LOGO，并非官方(Official)LOGO；
 
-### Issue Submission
-You can submit requests for logos you want created within the issues.
-Guidelines Clearly and concisely describe the required type and the ROM name.
+### issue提交
+可在issue内提交想要求制作的LOGO
+规范: 清晰明了描述需要类型以及ROM名称
 
-### Pull Request Submission Guidelines
-1.Submitted files can be in exported formats of JPG, PNG, or SVG.
+### 关于Pull Request提交规范
 
-2.Confirm that your submission does not contain source files (such as Photoshop PSD files).
+1.提交可接受JPG PNG SVG格式的导出文件
 
-3.File Structure:
+2.确认你提交的项目没有包含源文件 (如PS的PSD文件)
 
-   [1]
-   Main Folder (The name of the ROM you are adding)
-   [2]
-   Out
-   [3]---Inside the Out folder, split into export folders
-   <PNG>
-   <JPG>
-   <SVG>
-
-Place the corresponding logo formats into their respective folders before submitting.
-You can refer to the initial submission file structure for guidance.
+3.文件结构：
+自行参考初始提交文件结构
