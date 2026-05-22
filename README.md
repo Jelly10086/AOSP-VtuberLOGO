@@ -7,8 +7,11 @@ Guidelines Clearly and concisely describe the required type and the ROM name.
 
 ### Pull Request Submission Guidelines
 1.Submitted files can be in exported formats of JPG, PNG, or SVG.
+
 2.Confirm that your submission does not contain source files (such as Photoshop PSD files).
+
 3.File Structure:
+
    [1]
    Main Folder (The name of the ROM you are adding)
    [2]
@@ -17,5 +20,6 @@ Guidelines Clearly and concisely describe the required type and the ROM name.
    <PNG>
    <JPG>
    <SVG>
+
 Place the corresponding logo formats into their respective folders before submitting.
 You can refer to the initial submission file structure for guidance.
