@@ -1,3 +1,5 @@
+[English](./README_zh.md) | 简体中文
+
 ### 该项目采用CC BY-NC 4.0 LICENSE
 本仓库包含部分为基于AOSP开发的第三方系统二次创作的LOGO，并非官方(Official)LOGO；
 
