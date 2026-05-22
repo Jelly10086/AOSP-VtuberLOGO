@@ -1,3 +1,5 @@
+[简体中文](./README.md) | English
+
 ### This project is licensed under the CC BY-NC 4.0 LICENSE.
 This repository contains secondary creative logos designed for third-party systems based on AOSP; they are NOT official logos.
 
